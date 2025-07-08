@@ -9,6 +9,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  sqflite: ^2.0.2+1
+  path: ^1.8.0
+  intl: ^0.17.0
+  pdf: ^3.7.3
+  printing: ^5.7.4
+  path_provider: ^2.0.9
+  google_fonts: ^6.2.1 # Tambahkan ini
+  flutter_staggered_animations: ^1.1.1 # Tambahkan ini
 
 dev_dependencies:
   flutter_test:
